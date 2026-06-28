@@ -1,0 +1,5 @@
+# HTML-only GitHub repo; Flutter project lives locally untracked.
+*
+!.gitignore
+!index.html
+!privacy-policy.html
